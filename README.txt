@@ -1,3 +1,5 @@
+## new repo to test a mirror of a public repo to a private repo
+
 After you generate a starter project, these instructions will help you with what to do next.
 
 The Open Liberty starter gives you a simple, quick way to get the necessary files to start building
